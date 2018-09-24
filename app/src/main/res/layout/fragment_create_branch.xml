@@ -1,0 +1,67 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.etrack.myapplication.fragment.CreateBranchFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/spacing_smaller_8">
+
+            <EditText
+                android:id="@+id/et_branchname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/branch_name"
+                android:inputType="text"
+                android:textColor="#000000" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/spacing_smaller_8">
+
+            <EditText
+                android:id="@+id/et_branchnameAr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/branch_name_arbaic"
+                android:inputType="text"
+                android:textColor="#000000" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/spacing_smaller_8">
+
+            <EditText
+                android:id="@+id/et_branchAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/branch_address" android:minHeight="100dp"
+                android:maxLines="10"
+                android:inputType="text"
+                android:textColor="#000000" />
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/btn_createbranch"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/spacing_smaller_8"
+            android:background="@color/colorAccent"
+            android:text="@string/create_branch"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+
+</FrameLayout>

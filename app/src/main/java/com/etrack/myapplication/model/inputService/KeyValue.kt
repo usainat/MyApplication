@@ -1,0 +1,1 @@
+package com.etrack.myapplication.model.inputService/** * Created by Hussain on 27-03-2018. */data class KeyValue(val key: String, val value: String) {    override fun toString(): String {        return value    }}

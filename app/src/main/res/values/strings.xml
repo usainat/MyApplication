@@ -1,0 +1,402 @@
+<resources>
+    <string name="app_name">My Inventery</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="no_connection">NO CONNECTION</string>
+    <string name="ok">Ok</string>
+    <string name="CompanyName">Company Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="contact">Contact No</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="discount">Discount %</string>
+    <string name="groupname">Group Name</string>
+    <string name="create_group">Create Group</string>
+    <string name="item_name">Item Name</string>
+    <string name="arabic_name">Arabic item name</string>
+    <string name="openning_qty">Openning Qty</string>
+    <string name="cost_price">Cost price</string>
+    <string name="sale_price">Sale Price</string>
+    <string name="net_rate">Net Rate</string>
+    <string name="item_code">Item Code</string>
+    <string name="add_item">Add item</string>
+    <string name="adding_item">Adding Item</string>
+    <string name="please_wait">Please wait</string>
+    <string name="sonthing_went_wrong">Somthing went wrong</string>
+    <string name="adding_catogorey">Adding Catogorey</string>
+    <string name="getting_catogorey">Getting Catogorey List</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="missmatchuserpass">Miss match Username Password</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="branch_name">Branch Name</string>
+    <string name="create_branch">Create Branch</string>
+    <string name="adding_branch">Adding Branch</string>
+    <string name="branch_name_arbaic">Arabic Branch Name</string>
+    <string name="bill_date">Bill Date</string>
+    <string name="bill_no">Bill No</string>
+    <string name="suplier">Supplier</string>
+    <string name="remark">Remark</string>
+    <string name="next">Next</string>
+    <string name="total_amount">Total Bill</string>
+    <string name="add_products">Add Product</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="group_name">Group Name</string>
+    <string name="omr">OMR</string>
+    <string name="exit_message">Are you sure want to Exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logingin">Trying to Login</string>
+    <string name="CompanyNameArabic">Arabic Name</string>
+    <string name="email">Email</string>
+    <string name="purchase">Purchare Item</string>
+    <string name="sales_item">Sales Item</string>
+    <string name="stock">Stock Adjustment</string>
+    <string name="add_group">Add Group</string>
+    <string name="add_branch">Add Branch</string>
+    <string name="report_gen">Report by Bill</string>
+    <string name="logout">Logout</string>
+    <string name="Are_you_sure_logout">Are you sure want  to logout</string>
+    <string name="getting_product_list">Getting Product list</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="count">Count</string>
+    <string name="password_too_short">Password Too short</string>
+    <string name="please_enter_all_field">Please enter all field</string>
+    <string name="password_not_valid">Password not match</string>
+    <string name="email_not_vlid">Email not valid</string>
+    <string name="register_company">Register company</string>
+    <string name="entry_branch">Enter Branch</string>
+    <string name="getting_branches">Getting Branches</string>
+    <string name="save_user">Saving New User</string>
+    <string name="enter_role">Enter Role</string>
+    <string name="create_user">Create User</string>
+    <string name="username_not_avail">UserName not available</string>
+    <string name="available">User Name Available</string>
+    <string name="adding_company">Createing new account</string>
+    <string name="getting_bill_no">Getting bill no</string>
+    <string name="qty">Qty</string>
+    <string name="item_barcode">Barcode</string>
+    <string name="vat">Vat %</string>
+    <string name="catogorey">Catogorey</string>
+    <string name="name_already_exist">Name Already Exist</string>
+    <string name="branch_address">Branch Address</string>
+    <string name="delete_branch">Delete Branch</string>
+    <string name="delete_group">Delete Group</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="delete_user">Delete User</string>
+    <string name="update_branch">Update Branch</string>
+    <string name="delete_branches">Delete Branch</string>
+    <string name="update_branches">Updating branch details</string>
+    <string name="delete_catogory">Delete Catogorey</string>
+    <string name="update_catogorey">Update Catogorey</string>
+    <string name="search_item">Serach Item</string>
+    <string name="updating_catogorey">Updating Catogorey</string>
+    <string name="scan">Scan Item</string>
+    <string name="scan_product">Scan Product</string>
+    <string name="getting_product_by_id">Getting Product By ItemCode</string>
+    <string name="plz_enter_item_code">Please enter Item code</string>
+    <string name="add_product">Add Product</string>
+    <string name="close">Exit</string>
+    <string name="no_item_available">No Item Available</string>
+    <string name="back">Back</string>
+    <string name="save_bill">Save Bill</string>
+    <string name="save_acc">Add Account</string>
+    <string name="not_valid">Not Valid username or password</string>
+    <string name="add_account">Add Account</string>
+    <string name="getting_list_type">Getting type List</string>
+    <string name="adding_account">Adding Account</string>
+    <string name="acc_code">Account Code</string>
+    <string name="acc_name">Account Name</string>
+    <string name="getting_all_account">Getting All Account</string>
+    <string name="accountgroupname">Account Group Name</string>
+    <string name="delete_Account">Delete Account</string>
+    <string name="saving_sales_bill">Saving Sales Order</string>
+    <string name="create_catogory">Create catogorey</string>
+    <string name="update_delete_branch">update or delete branch</string>
+    <string name="update_delete_catogorey">Update or delete catog</string>
+    <string name="login_register">Login or register</string>
+    <string name="purchase_order">Purchase Order</string>
+    <string name="sales_order">Sales Order</string>
+    <string name="stock_adjustment">Stock Adjustment</string>
+    <string name="to_date">To Date</string>
+    <string name="from_date">From Date</string>
+    <string name="get_report">Get Report</string>
+    <string name="getting_supplier_list">Getting Supplier list</string>
+    <string name="getting_purchase_list">Getting Supplier List</string>
+    <string name="number">No</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="remarks">Remarks</string>
+    <string name="supliername">Supplier Name</string>
+    <string name="date">Date</string>
+    <string name="gen_item_hist">Item History Report</string>
+    <string name="report_gen_item">Report Gen Item</string>
+    <string name="get_reports">Getting Reports</string>
+    <string name="no_stock_list">No stock list</string>
+    <string name="amount_recived">Amount Recived</string>
+    <string name="balance_amount">Balance Amount</string>
+    <string name="plz_total_amount">Enter Total Amount</string>
+    <string name="select">Select</string>
+    <string name="purchaser">Purchase from</string>
+    <string name="item_report">Item Report</string>
+    <string name="catogorey_report">Catogorey Report</string>
+    <string name="cost_Amount">Cost Amount</string>
+    <string name="sale_rate">Sale Rate</string>
+    <string name="total_amt">Cost Amount</string>
+    <string name="gen_item_list">Item List Report</string>
+    <string name="item_type">Type</string>
+    <string name="sale_qty">Sales Qty</string>
+    <string name="purchase_qty">Purchase Qty</string>
+    <string name="stock_minus">Stock Minus Qty</string>
+    <string name="stock_plus">Stock plus Qty</string>
+    <string name="available_qty">Available Qty</string>
+    <string name="sales_qty">Sales Qty</string>
+    <string name="qty_not_available">Qty Not Available</string>
+    <string name="please_regendrate_bill">Please regenrate bill</string>
+    <string-array name="country_arrays">
+        <item>Oman</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Indian Ocean Territory</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Christmas Island</item>
+        <item>Cocos Islands</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Cook Islands</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>East Timor</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Falkland Islands</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Ivory Coast</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macao</item>
+        <item>Macedonia</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Montserrat</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar</item>
+        <item>Namibia</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>Netherlands Antilles</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>Niue</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Pitcairn</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Republic of the Congo</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Saint Barthelemy</item>
+        <item>Saint Helena</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Pierre and Miquelon</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Sao Tome and Principe</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Georgia and the South Sandwich Islands</item>
+        <item>South Korea</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Svalbard and Jan Mayen</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Togo</item>
+        <item>Tokelau</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Turks and Caicos Islands</item>
+        <item>Tuvalu</item>
+        <item>U.S. Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Vatican</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Wallis and Futuna</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+</resources>

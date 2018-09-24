@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_purchase"
+            android:icon="@drawable/purchase"
+            android:title="@string/purchase" />
+        <item
+            android:id="@+id/nav_sales_item"
+            android:icon="@drawable/sales"
+            android:title="@string/sales_item" />
+        <item
+            android:id="@+id/nav_stock"
+            android:icon="@drawable/stock"
+            android:title="@string/stock" />
+        <item
+            android:id="@+id/nav_add_item"
+            android:icon="@drawable/add_account"
+            android:title="@string/add_item" />
+        <item
+            android:id="@+id/nav_add_group"
+            android:icon="@drawable/add_account"
+            android:title="@string/add_group" />
+        <item
+            android:id="@+id/nav_add_branch"
+            android:icon="@drawable/add_account"
+            android:title="@string/add_branch" />
+        <item
+            android:id="@+id/nav_create_user"
+            android:icon="@drawable/add_account"
+            android:title="@string/create_user" />
+        <item
+            android:id="@+id/nav_del_branch"
+            android:icon="@drawable/delete_account"
+            android:title="@string/delete_branch" />
+        <item
+            android:id="@+id/nav_del_group"
+            android:icon="@drawable/delete_account"
+            android:title="@string/delete_group" />
+
+        <item
+            android:id="@+id/nav_del_item"
+            android:icon="@drawable/delete_account"
+            android:title="@string/delete_item" />
+        <item
+            android:id="@+id/nav_del_user"
+            android:icon="@drawable/delete_account"
+            android:title="@string/delete_user" />
+        <item
+            android:id="@+id/nav_add_acco"
+            android:icon="@drawable/add_account"
+            android:title="@string/save_acc" />
+        <item
+            android:id="@+id/nav_delete_acc"
+            android:icon="@drawable/delete_account"
+            android:title="@string/delete_Account" />
+
+        <item
+            android:id="@+id/nav_report_gen"
+            android:icon="@drawable/item_history"
+            android:title="@string/report_gen" />
+        <item
+            android:id="@+id/nav_report_gen_item"
+            android:icon="@drawable/item_history"
+            android:title="@string/report_gen_item" />
+        <item
+            android:id="@+id/nav_report_item_list"
+            android:icon="@drawable/item_history"
+            android:title="@string/gen_item_list" />
+        <item
+            android:id="@+id/nav_report_item_hist"
+            android:icon="@drawable/item_history"
+            android:title="@string/gen_item_hist" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+    </group>
+
+
+
+</menu>

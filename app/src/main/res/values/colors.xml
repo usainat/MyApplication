@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGray">#999999</color>
+    <color name="colorlightGray">#BDBDBD</color>
+    <color name="colorMatDark">#DD2C00</color>
+    <color name="colorMatRed">#e74c3c</color>
+    <color name="colorMatLightRed">#FF5442</color>
+    <color name="colorMatTurquoise">#1abc9c</color>
+    <color name="colorMatEmerland">#2ecc71</color>
+    <color name="colorGreensea">#16a085</color>
+    <color name="colorcarrat">#e67e22</color>
+    <color name="colorMatMagenda">#d80073</color>
+    <color name="colorMatLime">#a4c400</color>
+    <color name="colorMatTeal">#00aba9</color>
+    <color name="colorMatCal">#1ba1e2</color>
+    <color name="colorMatYellow">#e3c800</color>
+    <color name="colorMatBrown">#825a2c</color>
+    <color name="colorMatOlive">#6d8764</color>
+    <color name="colorMatAmber">#f0a30a</color>
+    <color name="colorMatOrange">#fa6800</color>
+    <color name="colorGreen">#ff669900</color>
+    <color name="colorBlue">#FF303F9F</color>
+    <color name="colorRed">#e74c3c</color>
+    <color name="colorOrange">#FF9800
+    </color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="colorOlive">#5e9840</color>
+
+
+    <color name="color_1">#829F48</color>
+    <color name="color_2">#F4A728</color>
+    <color name="color_3">#D43826</color>
+    <color name="color_4">#0F6597</color>
+    <color name="color_5">#3A3A3A</color>
+    <color name="color_6">#00BCD4</color>
+    <color name="color_7">#009688</color>
+    <color name="color_8">#CDDC39</color>
+    <color name="color_9">#607D8B</color>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvProductList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btnAddProducts"
+        android:scrollbars="vertical" />
+
+
+    <Button
+        android:id="@+id/btnAddProducts"
+        style="@style/buttonRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:fontFamily="san-serif"
+        android:padding="@dimen/spacing_small_10"
+        android:text="@string/add_products"
+        android:textSize="@dimen/font_large_20" />
+</RelativeLayout>

@@ -1,0 +1,1 @@
+package com.etrack.myapplication.model.inputService/** * Created by Hussain on 27-03-2018. */data class CatogoreyKeyValue(val key: String, val value: String, val discount: String) {    override fun toString(): String {        return value    }     fun getDicountString(): String {        return discount    }}

@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <Spinner
+            android:id="@+id/spBranchList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/spacing_smaller_8"
+            android:entries="@array/country_arrays"
+            android:minHeight="50dp"
+            android:prompt="@string/country_prompt" />
+
+        <Button
+            android:id="@+id/bt_select"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/spacing_normal_14"
+            android:text="@string/select" />
+    </LinearLayout>
+</FrameLayout>

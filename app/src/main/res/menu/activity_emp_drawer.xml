@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_purchase"
+            android:icon="@drawable/purchase"
+            android:title="@string/purchase" />
+        <item
+            android:id="@+id/nav_sales_item"
+            android:icon="@drawable/sales"
+            android:title="@string/sales_item" />
+        <item
+            android:id="@+id/nav_stock"
+            android:icon="@drawable/stock"
+            android:title="@string/stock" />
+
+        <item
+            android:id="@+id/nav_report_gen_item"
+            android:icon="@drawable/item_history"
+            android:title="@string/report_gen_item" />
+        <item
+            android:id="@+id/nav_report_item_hist"
+            android:icon="@drawable/item_history"
+            android:title="@string/gen_item_hist" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+
+    </group>
+
+
+</menu>

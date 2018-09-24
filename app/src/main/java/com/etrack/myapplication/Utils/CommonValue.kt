@@ -1,0 +1,1 @@
+package com.etrack.myapplication.Utils/** * Created by Hussain on 21-04-2018. */  public class CommonValue{ companion object {//  public var qrCode = "" }}
